@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Mansalva&display=swap');
+
+body{
+background-color: #a47c48;
+}
+
+h1 {
+ font-family:  'Mansalva', cursive;
+}
+
+.card-panel .card-title {
+ font-family:  'Mansalva', cursive;
+}
+
+.card-panel .black-text{
+ font-family:  'Mansalva', cursive;
+}
