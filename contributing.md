@@ -2,6 +2,10 @@
 
 - Docker
 
+## Paletas de cores
+
+https://www.color-hex.com/color-palette/170
+
 ## Inicializando projeto
 
 `sudo docker build -t roselma-croche .`
